@@ -110,16 +110,6 @@ class RoshanRathod {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Roshan8312&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
 ## 📚 Currently Learning
 
 - 📘 Data Structures & Algorithms

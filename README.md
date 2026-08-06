@@ -89,12 +89,12 @@ class RoshanRathod {
 
 ## ⭐ Featured Projects
 
-| 🚀 Project | 📄 Description |
+|  Project |  Description |
 |------------|----------------|
-| 🗑 AI Garbage Classification | EfficientNet-based waste classification |
-| 🐄 Livestock Disease Detection | Deep learning disease prediction |
-| 🌐 Portfolio Website | Personal portfolio |
-| ☕ Java DSA | LeetCode & DSA Solutions |
+| AI Garbage Classification | EfficientNet-based waste classification |
+|  Livestock Disease Detection | Deep learning disease prediction |
+| Portfolio Website | Personal portfolio |
+| Java DSA | LeetCode & DSA Solutions |
 
 ---
 

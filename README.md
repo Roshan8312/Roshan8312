@@ -86,17 +86,15 @@ class RoshanRathod {
 </p>
 
 ---
-
 ## ⭐ Featured Projects
 
-|  Project |  Description |
+| Project | Description |
 |------------|----------------|
 | AI Garbage Classification | EfficientNet-based waste classification |
-|  Livestock Disease Detection | Deep learning disease prediction |
+| Livestock Disease Detection | Deep learning disease prediction |
+| Banking Transaction & Loan Management System | MySQL-based banking database management |
 | Portfolio Website | Personal portfolio |
 | Java DSA | LeetCode & DSA Solutions |
-
----
 
 ## 📚 Currently Learning
 
